@@ -1,0 +1,101 @@
+﻿id_usuario,nombre,comuna_residencia,fecha_registro
+101,Vecino_101,Providencia,2025-01-28
+102,Vecino_102,Las Condes,2025-05-15
+103,Vecino_103,Macul,2025-07-20
+104,Vecino_104,Las Condes,2025-11-24
+105,Vecino_105,Las Condes,2025-09-25
+106,Vecino_106,La Florida,2025-02-02
+107,Vecino_107,Macul,2025-02-17
+108,Vecino_108,Macul,2025-03-03
+109,Vecino_109,Macul,2025-08-04
+110,Vecino_110,Las Condes,2025-10-20
+111,Vecino_111,Providencia,2025-04-09
+112,Vecino_112,Macul,2025-06-21
+113,Vecino_113,Las Condes,2025-12-26
+114,Vecino_114,La Florida,2025-08-02
+115,Vecino_115,Providencia,2025-02-04
+116,Vecino_116,La Florida,2025-08-15
+117,Vecino_117,Providencia,2025-04-11
+118,Vecino_118,Las Condes,2025-05-11
+119,Vecino_119,Peñalolén,2025-09-14
+120,Vecino_120,Providencia,2025-01-05
+121,Vecino_121,La Florida,2025-08-06
+122,Vecino_122,Las Condes,2025-09-12
+123,Vecino_123,Providencia,2025-12-25
+124,Vecino_124,Peñalolén,2025-10-10
+125,Vecino_125,Peñalolén,2025-07-26
+126,Vecino_126,Macul,2025-01-15
+127,Vecino_127,Macul,2025-12-12
+128,Vecino_128,La Florida,2025-02-11
+129,Vecino_129,Providencia,2025-06-28
+130,Vecino_130,Providencia,2025-03-04
+131,Vecino_131,Macul,2025-12-18
+132,Vecino_132,Providencia,2025-08-19
+133,Vecino_133,Providencia,2025-08-29
+134,Vecino_134,Peñalolén,2025-02-21
+135,Vecino_135,Macul,2025-04-06
+136,Vecino_136,Las Condes,2025-08-10
+137,Vecino_137,Macul,2025-08-19
+138,Vecino_138,Las Condes,2025-08-25
+139,Vecino_139,Peñalolén,2025-05-23
+140,Vecino_140,La Florida,2025-06-20
+141,Vecino_141,Providencia,2025-01-29
+142,Vecino_142,Peñalolén,2025-02-05
+143,Vecino_143,Providencia,2025-01-13
+144,Vecino_144,La Florida,2025-06-09
+145,Vecino_145,La Florida,2025-11-23
+146,Vecino_146,Peñalolén,2025-07-06
+147,Vecino_147,La Florida,2025-08-31
+148,Vecino_148,Las Condes,2025-03-27
+149,Vecino_149,La Florida,2025-10-11
+150,Vecino_150,Providencia,2025-03-07
+151,Vecino_151,Providencia,2025-06-19
+152,Vecino_152,Providencia,2025-02-14
+153,Vecino_153,Providencia,2025-03-03
+154,Vecino_154,Las Condes,2025-05-14
+155,Vecino_155,Macul,2025-10-11
+156,Vecino_156,Peñalolén,2025-01-28
+157,Vecino_157,Providencia,2025-04-18
+158,Vecino_158,La Florida,2025-02-13
+159,Vecino_159,Providencia,2025-12-06
+160,Vecino_160,La Florida,2025-10-13
+161,Vecino_161,La Florida,2025-11-27
+162,Vecino_162,Providencia,2025-05-08
+163,Vecino_163,Las Condes,2025-12-14
+164,Vecino_164,La Florida,2025-08-19
+165,Vecino_165,La Florida,2025-07-09
+166,Vecino_166,Providencia,2025-08-13
+167,Vecino_167,La Florida,2025-10-10
+168,Vecino_168,La Florida,2025-05-01
+169,Vecino_169,Providencia,2025-04-26
+170,Vecino_170,Providencia,2025-08-21
+171,Vecino_171,Peñalolén,2025-09-16
+172,Vecino_172,Las Condes,2025-12-25
+173,Vecino_173,Las Condes,2025-07-17
+174,Vecino_174,La Florida,2025-05-17
+175,Vecino_175,Las Condes,2025-11-14
+176,Vecino_176,La Florida,2025-06-14
+177,Vecino_177,Peñalolén,2025-08-13
+178,Vecino_178,Providencia,2025-11-03
+179,Vecino_179,Providencia,2025-08-22
+180,Vecino_180,Providencia,2025-06-21
+181,Vecino_181,Las Condes,2025-06-01
+182,Vecino_182,Peñalolén,2025-11-11
+183,Vecino_183,Las Condes,2025-06-09
+184,Vecino_184,Las Condes,2025-04-06
+185,Vecino_185,Peñalolén,2025-08-21
+186,Vecino_186,Peñalolén,2025-06-29
+187,Vecino_187,Peñalolén,2025-04-23
+188,Vecino_188,Peñalolén,2025-11-14
+189,Vecino_189,Providencia,2025-02-21
+190,Vecino_190,Macul,2025-09-25
+191,Vecino_191,Macul,2025-10-22
+192,Vecino_192,Peñalolén,2025-04-23
+193,Vecino_193,Macul,2025-04-11
+194,Vecino_194,Macul,2025-04-23
+195,Vecino_195,Peñalolén,2025-03-22
+196,Vecino_196,Macul,2025-07-06
+197,Vecino_197,Las Condes,2025-04-23
+198,Vecino_198,La Florida,2025-01-02
+199,Vecino_199,La Florida,2025-05-10
+200,Vecino_200,Peñalolén,2025-08-08
